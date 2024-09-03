@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Welcome to Our Store | FurnishIt',
     description: 'Discover our wide range of products at great prices. Shop now for the best deals!',
-    images: [{ url: '/path-to-your-og-image.jpg' }],
+    
   },
 };
 

@@ -1,3 +1,15 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About this Project | FurnishIt",
+  description: "Learn more about this e-commerce project built with Next.js and Tailwind CSS.",
+  openGraph: {
+    title: "About this Project | FurnishIt",
+    description: "Learn more about this e-commerce project built with Next.js and Tailwind CSS.",
+    
+  },
+};
+
 export default function About() {
     return (
       <main className="min-h-screen">
