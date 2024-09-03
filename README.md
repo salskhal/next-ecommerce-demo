@@ -1,8 +1,14 @@
 # E-Commerce Demo Project
 
+
+
 ## Overview
 
 This is a demo e-commerce project built with **Next.js** **TypeScript** and **Tailwind CSS**, showcasing the capabilities of a modern web application with a focus on performance, responsiveness, and maintainability. The application provides a complete product listing interface, along with admin CRUD (Create, Read, Update, Delete) functionality for managing products.
+
+## Live Demo
+
+The live demo of the project can be accessed [here](https://furnishit.netlify.app/).
 
 ### Key Features
 
